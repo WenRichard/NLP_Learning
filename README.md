@@ -11,3 +11,9 @@
 |标题|类型|时间|
 |-|-|-|
 |[统计学习方法概论](https://github.com/fengdu78/lihang-code/tree/master/code)|代码|2018.12.17|
+  
++ 分类问题  
+
+|标题|类型|时间|
+|-|-|-|
+|[text_classification](https://github.com/fresty/text_classification/tree/master/a05_HierarchicalAttentionNetwork)|代码|2018.12.17|
