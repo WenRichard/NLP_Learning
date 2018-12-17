@@ -17,3 +17,9 @@
 |标题|类型|时间|
 |-|-|-|
 |[text_classification](https://github.com/fresty/text_classification/tree/master/a05_HierarchicalAttentionNetwork)|代码|2018.12.17|
+
++ 论文写作 
+
+|标题|类型|时间|
+|-|-|-|
+|[学位论文排版教程](https://mp.weixin.qq.com/s?__biz=Mzg5NzAxMDgwNg==&mid=2247483979&idx=1&sn=9accf54de60fa6fe8f01cbd22e4df1a8&chksm=c0791f52f70e9644157b1c7a2ac0e3a0ba3e785ce45ff84ca22dbab50f7f0e542d7e6eb24b4f&mpshare=1&scene=23&srcid=1214F5bWju4m5T9SrayMrBx2#rd)|详解|2018/12/17|
