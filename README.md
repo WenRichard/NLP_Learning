@@ -5,7 +5,8 @@
 |标题|类型|Tricks including:|时间|
 |-|-|-|-|
 |[word2vec 中的数学原理详解](https://www.cnblogs.com/peghoty/p/3857839.html)|详解|Hierarchical Softmax, Negative Sampling.etc|2018.11.28| 
-  
+|[gensim训练word2vec及相关函数与功能理解](https://blog.csdn.net/sinat_26917383/article/details/69803018)|详解&代码|内容比较全面|2018.12.18|
+
 + 李航统计学习代码  
 
 |标题|类型|时间|
