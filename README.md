@@ -12,7 +12,10 @@
 |标题|类型|Tricks including:|时间|
 |-|-|-|-|
 |[将ELMo词向量用于中文](http://www.linzehui.me/2018/08/12/%E7%A2%8E%E7%89%87%E7%9F%A5%E8%AF%86/%E5%A6%82%E4%BD%95%E5%B0%86ELMo%E8%AF%8D%E5%90%91%E9%87%8F%E7%94%A8%E4%BA%8E%E4%B8%AD%E6%96%87/)|详解|使用预训练好的词向量作为句子表示直接传入到RNN中，不用默认的cnn|2019.4.9| 
-|[哈工大emlo开源，包含中文](https://github.com/HIT-SCIR/ELMoForManyLangs)|代码|/|2019.4.9|
+|[哈工大emlo开源,包含中文](https://github.com/HIT-SCIR/ELMoForManyLangs)|代码|无|2019.4.9|
+|[论文笔记ELMo](https://zhuanlan.zhihu.com/p/37684922)|详解|无|2019.4.9|  
+|[ELMo解读](https://zhuanlan.zhihu.com/p/51879600)|详解|对整个模型尤其是char-cnn部分讲得很清楚|2019.4.9|  
+|[ELMo阅读笔记](https://zhuanlan.zhihu.com/p/52331143)|详解|ELMo的HIT实现，支持多种语言，路径配置需要详细阅读HIT的说明|2019.4.9|  
 
 + **BERT**
 
