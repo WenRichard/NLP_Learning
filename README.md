@@ -34,6 +34,7 @@
 |标题|类型|时间|
 |-|-|-|
 |[text_classification](https://github.com/fresty/text_classification/tree/master/a05_HierarchicalAttentionNetwork)|代码|2018.12.17|
+|[tensorflow classification多个常见模型实现](https://github.com/jiangxinyang227/textClassifier)|代码|2019.4.9|
 
 + **论文写作** 
 
