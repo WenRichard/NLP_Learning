@@ -22,6 +22,7 @@
 |标题|类型|时间|
 |-|-|-|
 |[BERT-BiLSTM-CRF-NER](https://github.com/macanv/BERT-BiLSTM-CRF-NER)|代码|2018/12/17|
+|[BERT-BiLSTM-CRF-NER2](https://github.com/jiangxinyang227/NLP-project)|代码|2019/4/9|
 
 + **李航统计学习代码**  
 
