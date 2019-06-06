@@ -28,7 +28,7 @@
 
 |标题|类型|Tricks including:|时间|
 |-|-|-|-|
-|[word2vec/glove/fastText/elmo/bert](https://zhuanlan.zhihu.com/p/56382372|详解|-|2019/6/6|
+|[word2vec/glove/fastText/elmo/bert](https://zhuanlan.zhihu.com/p/56382372）|详解|-|2019/6/6|
 
 + **李航统计学习代码**  
 
