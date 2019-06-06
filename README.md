@@ -24,6 +24,12 @@
 |[BERT-BiLSTM-CRF-NER](https://github.com/macanv/BERT-BiLSTM-CRF-NER)|代码|2018/12/17|
 |[BERT-BiLSTM-CRF-NER2](https://github.com/jiangxinyang227/NLP-project)|代码|2019/4/9|
 
++ **NLP词向量对比**
+
+|标题|类型|Tricks including:|时间|
+|-|-|-|
+|[word2vec/glove/fastText/elmo/bert](https://zhuanlan.zhihu.com/p/56382372|详解|-|2019/6/6|
+
 + **李航统计学习代码**  
 
 |标题|类型|时间|
